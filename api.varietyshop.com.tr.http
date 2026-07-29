@@ -1,0 +1,6 @@
+@api.varietyshop.com.tr_HostAddress = http://localhost:5165
+
+GET {{api.varietyshop.com.tr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
