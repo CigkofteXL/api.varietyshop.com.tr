@@ -1,4 +1,7 @@
 # 🚀 VarietyShop Core API (`api.varietyshop.com.tr`)
+> **Canlı ApplyBAU YBS Portföyü (Harun Durmuş — VarietyShop & Haduva):** [https://varietyshop.com.tr](https://varietyshop.com.tr)
+
+
 
 ![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
